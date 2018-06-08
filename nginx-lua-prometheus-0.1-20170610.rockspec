@@ -1,11 +1,11 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "nginx-lua-prometheus"
-version = "0.1-20170303"
+version = "0.1-20170610"
 
 -- LuaDist source
 source = {
-  tag = "0.1-20170303",
+  tag = "0.1-20170610",
   url = "git://github.com/LuaDist-testing/nginx-lua-prometheus.git"
 }
 -- Original source
